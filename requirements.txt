@@ -1,0 +1,10 @@
+
+prophet
+pandas
+scikit-learn
+numpy
+gradio
+matplotlib
+joblib
+statsmodels
+pmdarima
